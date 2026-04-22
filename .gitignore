@@ -1,0 +1,10 @@
+# IGNORE EVERYTHING in the project (Because it's closed-source)
+*
+
+# =================================================================
+# EXCEPTIONS: The ONLY files that will be pushed to GitHub
+# =================================================================
+!.gitignore
+!README.md
+!screenshots/
+!screenshots/**
