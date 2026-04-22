@@ -17,7 +17,7 @@
 
 ### Onboarding & Custom Notifications
 <div align="center">
-  <video src="screenshots/video.mp4" width="250" controls></video>
+  <img src="screenshots/video.gif" width="250" alt="Onboarding and custom notifications demo" />
 </div>
 
 ---
