@@ -268,36 +268,6 @@ We treat Jank as a bug. Here is how KitchenShop maintains buttery-smooth scrolli
 
 ---
 
-## 🚀 Getting Started
-
-### Prerequisites
-- Flutter SDK (`stable` channel recommended)
-- Supabase Project & API Keys
-- Firebase Project configured (for Auth & Messaging)
-
-### Installation
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/yourusername/kitchenshop.git
-   cd kitchenshop
-   ```
-2. **Install dependencies:**
-   ```bash
-   flutter clean && flutter pub get
-   ```
-3. **Generate Code (Crucial for Hive & Riverpod):**
-   ```bash
-   dart run build_runner build -d
-   ```
-4. **Environment Setup:**
-   Ensure `env/env.json` and `lib/core/config.dart` are populated with your Supabase/Firebase credentials.
-5. **Run the App:**
-   ```bash
-   flutter run
-   ```
-
----
-
 <div align="center">
   <i>Crafted with passion for performance, elegant code, and smooth user experiences.</i>
 </div>
